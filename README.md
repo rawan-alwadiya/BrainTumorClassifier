@@ -61,7 +61,6 @@ Develop and deploy a robust **transfer learning model** to detect brain tumors e
   - Optimizer: **Adamax**  
   - Loss: Binary Crossentropy  
   - Callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau  
-  - Epochs: 30 (with early stopping)
 
 ---
 
